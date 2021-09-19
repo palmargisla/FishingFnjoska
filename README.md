@@ -4,7 +4,7 @@ This analysis was done because a friend of mine was going fishing in Fnjóská. 
 
 There are two scripts in this analysis. The first one written in python; `Data.ipynb` which gathers and fixes data from the website. The data is written to the file `data.csv`. The second part is the analysis which is written in R; `Plot.ipynb`, which creates two plots.
 
-Because the friend of mine was going fishing in August, I made two plots. The first one shows how all the fishing spots have performed for the three types of fish cought in Fnjóska, over the past 5 years.
+The first image shows all fishing spots for the past 5 years.
 
 ![Past 4 years](average_2017_2021.png)
 
